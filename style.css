@@ -1,0 +1,44 @@
+
+.b{
+ 
+    border: 1px solid azure;
+    display: flex;
+    justify-content: center;
+    
+    gap: 7px;
+}
+
+.a{
+    width: 1283px;
+    height: 39px;
+    border: 1px solid azure;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    
+}
+.c{
+    text-align: center;
+}
+
+
+
+
+.main{
+    
+    border: 1px solid azure;
+    display: flex;
+    justify-content: space-evenly;
+    
+    gap: 10px;
+}
+.box{
+    width: 510px;
+    height: 250px;
+    border: 1px solid red;
+    text-align: center;
+    background-color: red;
+    color: azure;
+    font-size: 30px;
+   
+}  
